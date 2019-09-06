@@ -12,7 +12,7 @@ function config($key = '')
         'pretty_uri' => false,
         'site_url' =>'https://anthony-obando-assignment-1.herokuapp.com/' , //'https://csuphpdemo.herokuapp.com'
         'nav_menu' => [
-            '' => 'Home',
+            '' => 'Overview',
             'about-me' => 'About Me',
             'contact'=> 'Contact',
         ],
