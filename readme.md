@@ -30,4 +30,8 @@ If you have any questions or recommendations for the project, please [create an 
 
 MIT
 
+Info: In 2016, I gave a presentation on video game history. The talk is on YouTube and the link is: https://www.youtube.com/watch?v=FgFwszCjvqg&t=20s
+I decided to put just a snippet of the info in a "Too long; Didn't read" format on this website. The contact and about pages I just
+had some fun with as this assignment required images.
+
 URL: https://anthony-obando-assignment-1.herokuapp.com/
